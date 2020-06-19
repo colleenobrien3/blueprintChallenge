@@ -11,7 +11,7 @@ header {
   /* max-height: 10em; */
   background-color: rgb(88, 165, 226);
   margin: 0;
-  padding: 0 10%;
+  padding: 0.5% 10%;
 }
 
 header > section {
@@ -23,7 +23,7 @@ header > section {
 #donate {
   background-color: rgba(228, 93, 88, 1);
   font-size: 20px;
-  padding: 1% 10%;
+  padding: 1% 8%;
   margin: 2%;
   display: inline;
   font-size: 12px;
@@ -37,7 +37,7 @@ header > section {
 }
 
 #donate > img {
-  width: 15%;
+  width: 17%;
   padding: 0 3%;
 }
 
