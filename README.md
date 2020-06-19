@@ -12,4 +12,4 @@ Hello! Thank you for taking the time to view my challenge! I believe I hit most 
 
 ## Getting Started
 
-Please click [here](https://colleenobrienblueprints.netlify.app/) to view the deployed site.
+Please click [here](https://colleenobrienblueprintchallenge.netlify.app/) to view the deployed site.
