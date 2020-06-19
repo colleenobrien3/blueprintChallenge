@@ -169,7 +169,7 @@ footer > section {
   width: fit-content;
   margin: 1.5% auto;
 }
-@media screen and (max-width: 833px) {
+@media screen and (max-width: 1024px) {
   #textTexas {
     font-size: 20px;
   }
