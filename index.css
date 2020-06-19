@@ -49,9 +49,9 @@ button:hover,
 }
 
 .socialIcon {
-  height: 17px;
+  height: 22px;
   padding: 5% 0;
-  margin: 4% 2%;
+  margin: 1% 2%;
   display: inline;
 }
 
@@ -62,7 +62,7 @@ button:hover,
   height: 7em;
 }
 main {
-  height: 50vh;
+  height: 65vh;
   display: flex;
   justify-content: space-between;
   background-image: url("./images/background2.jpg");
@@ -139,7 +139,7 @@ input {
 
 footer {
   background-color: rgb(51, 117, 171);
-  height: 40vh;
+  height: 30vh;
   margin: 0;
   justify-content: center;
   align-items: center;
