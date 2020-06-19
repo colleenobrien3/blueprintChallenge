@@ -36,6 +36,13 @@ header > section {
   height: 3.8em;
 }
 
+button:hover,
+.socialIcon:hover,
+#headerLogo:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
 #donate > img {
   width: 17%;
   padding: 0 3%;
