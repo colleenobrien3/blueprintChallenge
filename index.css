@@ -15,7 +15,7 @@ header {
 }
 
 header > section {
-  margin: 2%;
+  margin: 2.5% 2%;
   width: 30%;
   padding: 0;
   display: flex;
@@ -52,7 +52,7 @@ header > section {
   padding: 0;
   margin: 0;
   width: 19%;
-  height: 5em;
+  height: 7em;
 }
 main {
   height: 50vh;
